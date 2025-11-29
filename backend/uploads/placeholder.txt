@@ -1,0 +1,19 @@
+# Placeholder Images for Mock Data
+
+This directory contains placeholder files for the mock watch data.
+In a real application, these would be actual watch images.
+
+Mock images referenced:
+- rolex-submariner.jpg
+- rolex-black.jpg
+- rolex-blue.jpg
+- omega-speedmaster.jpg
+- omega-silver.jpg
+- tag-carrera.jpg
+- tag-black.jpg
+- tag-white.jpg
+- seiko-presage.jpg
+- seiko-blue.jpg
+
+For development purposes, the application will work with mock data
+even if these image files don't exist.
